@@ -1,5 +1,5 @@
 # Random-Guess-and-Stone-Paper-Scissor
-This was assignment given by TCR Innovation in Machine Learning With Python Internship Program.
+This was Python assignment given by TCR Innovation in Machine Learning With Python Internship Program.
 
 ## Task No.1
 ### Random Guessing Number
